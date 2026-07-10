@@ -12,4 +12,14 @@ This repository contains a desktop game implementation inspired by Chuckie Egg. 
 - Kotlin/JVM implementation
 - Desktop application entry point
 - Canvas-based rendering
-- Gradle project
+- Gradle project structure
+
+## Tech stack
+
+- Kotlin
+- Gradle
+- CanvasLib JVM
+
+## Notes
+
+Academic project repository.
